@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcacek/eslint-config.git"
+  },
+  "author": "Michael Cacek <michael.cacek@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcacek/eslint-config/issues"
+  },
+  "homepage": "https://github.com/mcacek/eslint-config#readme",
+  "devDependencies": {
+    "eslint": "^1.9.0"
+  }
+}
